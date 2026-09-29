@@ -116,5 +116,5 @@ para usar, adaptar e redistribuir, mantendo os créditos.
 
 ## Créditos
 
-Projeto criado para fins didáticos, acompanhando um vídeo tutorial sobre
+Projeto criado por Gilmar Barbosa para fins didáticos, acompanhando um vídeo tutorial sobre
 otimização mecânica com o Solver do Excel.
